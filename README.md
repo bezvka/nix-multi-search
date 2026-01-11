@@ -20,4 +20,6 @@
 ## Запуск:
 
 ```bash
+git clone https://github.com/bezvka/nix-multi-search.git
+cd cd nix-multi-search/
 python nix-searcher.py
